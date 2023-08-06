@@ -1,3 +1,14 @@
+# Adding on 2023.08.06
+@@||taobao.com^$important
+@@||tmall.com^$important
+@@||jd.com^important
+@@||flyme.cn^$important
+@@||meizu.com^$important
+@@||wl.jd.com^$important
+@@||pv.sohu.com^$important
+@@||whatsapp.com^$important
+
+# Forked from another GitHub
 # @@|api.rewards.brave.com^$important (disabled)
 # @@|laptop-updates.brave.com^$important (disabled)
 # @@|rewards.brave.com^$important (disabled)
