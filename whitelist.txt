@@ -1,4 +1,5 @@
 # Adding on 2023.08.06
+@@||centanet.com^$important
 @@||taobao.com^$important
 @@||tmall.com^$important
 @@||jd.com^important
