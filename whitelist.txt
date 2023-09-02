@@ -2,6 +2,15 @@
 @@||viu.tv^$important
 @@||viu.now.com^$important
 @@||viutv-cloudstore-prod.firebaseio.com^$important
+@@||hkvr.centanet.com^$important
+@@||hkis.centanet.com^$important
+@@||hkvrdata.centanet.com^$important
+@@||hkfloorplan.centanet.com^$important
+@@||api.viu.now.com^$important
+@@||static.viu.tv^$important
+@@||viutv-cloudstore-prod.firebaseio.com^$important
+@@||nowe.com^$important
+
 
 # Adding on 2023.08.06
 @@||centanet.com^$important
