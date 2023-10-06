@@ -1,5 +1,6 @@
 # Adding on 2023.10.06
 @@||openai.com^$important
+@@||whatsapp.net^$important
 
 
 # Adding on 2023.09.02
