@@ -1,3 +1,7 @@
+# Adding on 2023.10.06
+@@||openai.com^$important
+
+
 # Adding on 2023.09.02
 @@||viu.tv^$important
 @@||viu.now.com^$important
