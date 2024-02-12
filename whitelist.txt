@@ -1,3 +1,8 @@
+#Adding on 2024.02.12 FB related
+@@||instagram.com^$important
+@@||fbcdn.net^$important
+@@||facebook.com^$important
+
 #Adding on 2024.01.01 Google Drive related
 @@||www.google.com
 @@||accounts.google.com
