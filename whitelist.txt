@@ -2,6 +2,7 @@
 @@||instagram.com^$important
 @@||fbcdn.net^$important
 @@||facebook.com^$important
+@@||github.com^$important
 
 #Adding on 2024.01.01 Google Drive related
 @@||www.google.com
