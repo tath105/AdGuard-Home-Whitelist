@@ -1,3 +1,8 @@
+#Adding on 2024.04.20. For Aqara
+@@||getui.com^$important
+@@||gepush.com^$important
+@@||getui.net^$important
+
 #Adding on 2024.03.17 Provided by SirPD Boy
 @@||taobao.com^$important
 @@||tmall.com^$important
