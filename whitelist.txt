@@ -1,5 +1,6 @@
 #Addnig on 2024.07.01. For New Stuff
 @@|metrics.icloud.com^$important
+@@|svc2.sc.com^$important
 
 #Adding on 2024.04.20. For Aqara
 @@||getui.com^$important
