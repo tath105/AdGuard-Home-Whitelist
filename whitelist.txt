@@ -5,6 +5,8 @@
 @@||getui.com^$important
 @@||gepush.com^$important
 @@||getui.net^$important
+@@||aqara.com^$important
+@@||aqara.cn^$important
 
 #Adding on 2024.03.17 Provided by SirPD Boy
 @@||taobao.com^$important
