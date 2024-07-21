@@ -1,3 +1,11 @@
+#Adding on 2024.07.21. TV WeChat
+@@|wxqcloud.qq.com^$important
+@@|aegis.qq.com^$important
+@@|beacon.qq.com^$important
+@@|tc.qq.com^$important
+@@|wxlivecdn.com^$important
+@@|gtimg.cn^$important
+
 #Addnig on 2024.07.01. For New Stuff
 @@|metrics.icloud.com^$important
 @@|svc2.sc.com^$important
