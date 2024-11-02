@@ -56,39 +56,6 @@
 @@||facebook.com^$important
 @@||github.com^$important
 
-#Adding on 2024.01.01 Google Drive related
-@@||www.google.com
-@@||accounts.google.com
-@@||googledrive.com
-@@||drive.google.com
-@@||*.drive.google.com
-@@||drive.usercontent.google.com
-@@||docs.google.com
-@@||*.docs.google.com
-@@||*.c.docs.google.com
-@@||sheets.google.com
-@@||slides.google.com
-@@||takeout.google.com
-@@||gg.google.com
-@@||script.google.com
-@@||ssl.google-analytics.com
-@@||video.google.com
-@@||s.ytimg.com
-@@||apis.google.com
-@@||*.clients[0–9].google.com
-@@||*.googleapis.com
-@@||*.googleusercontent.com
-@@||*.gstatic.com
-@@||*.gvt1.com
-@@||lh[0–9].google.com
-@@||[0–9].client-channel.google.com
-@@||clients[0–9].google.com
-@@||inputtools.google.com
-@@||sites.google.com
-@@||*.sites.google.com
-@@||*.googlegroups.com
-@@||ipv4.google.com
-
 
 # Adding on 2023.10.06
 @@||openai.com^$important
